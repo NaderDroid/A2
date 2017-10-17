@@ -2,6 +2,6 @@
 
 require('../vendor/autoload.php');
 
-echo “Victor is the best“;
+echo "Victor is the best";
 
 ?>
